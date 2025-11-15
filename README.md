@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @chibuzorikpe
-- 👀 I’m a web and app developer
-     and data analyst 
+- 👀 I'm a Softeware developer and Data nerd
 - 💞️ open to collaborations
 - 📫 How to reach me 
 *Email=ikpebillchibuzor@gmail.com
-*linked in=@uzo_ikpe
+*linked in= https://www.linkedin.com/in/ikpe-bill-chibuzor-416446195/
 
